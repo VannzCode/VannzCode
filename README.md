@@ -71,10 +71,10 @@ Sebagai developer di ekosistem Minecraft, gua nggak cuma ngoding, tapi juga nger
 Mau ngajak kolab, butuh *freelancer* buat server, atau sekadar mabar? Gas kontak gua:
 
 <p align="center">
-  <a href="https://discord.com/users/[vannzcode]">
+  <a href="https://discord.com/users/vannzcode">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:[reypanananda16@gmail.com]">
+  <a href="mailto:reypanananda16@gmail.com">
     <img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <!-- Nanti kalo web portonya udah di-deploy pake nama baru, apus tanda panah komen di bawah -->
